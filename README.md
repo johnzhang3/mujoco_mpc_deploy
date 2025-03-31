@@ -12,3 +12,17 @@ This repository contains the code for deploying MuJoCo MPC on Unitree Robots. (T
 ## Examples
 
 1. to verify things are working correctly in simulation, run: ```python examples/mjpc_gui.py```
+
+## Citing
+If you find this work helpful, please consider citing our paper:
+```
+@misc{zhang2025wholebodymodelpredictivecontrollegged,
+        title={Whole-Body Model-Predictive Control of Legged Robots with MuJoCo}, 
+        author={John Z. Zhang and Taylor A. Howell and Zeji Yi and Chaoyi Pan and Guanya Shi and Guannan Qu and Tom Erez and Yuval Tassa and Zachary Manchester},
+        year={2025},
+        eprint={2503.04613},
+        archivePrefix={arXiv},
+        primaryClass={cs.RO},
+        url={https://arxiv.org/abs/2503.04613}, 
+  }
+```
