@@ -17,7 +17,7 @@ For result videos and details, please checkout out our [paper](https://arxiv.org
 > 
 > ```zsh
 > git clone https://github.com/johnzhang3/mujoco_mpc -b go2
-> ```,
+> ```
 > 
 > respectively.
 
