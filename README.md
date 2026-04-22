@@ -9,11 +9,15 @@ For result videos and details, please checkout out our [paper](https://arxiv.org
 > [!NOTE]
 > MuJoCo MPC uses the Unitree A1 quadruped assets by default. For deployment with the Unitree Go1 or Go2, please clone MuJoCo MPC using either
 > 
-> ```zsh git clone https://github.com/johnzhang3/mujoco_mpc -b go1```
+> ```zsh
+> git clone https://github.com/johnzhang3/mujoco_mpc -b go1
+> ```
 > 
 > or
 > 
-> ```zsh git clone https://github.com/johnzhang3/mujoco_mpc -b go2```,
+> ```zsh
+> git clone https://github.com/johnzhang3/mujoco_mpc -b go2
+> ```,
 > 
 > respectively.
 
