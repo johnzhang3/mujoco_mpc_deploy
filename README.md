@@ -6,7 +6,7 @@ For result videos and details, please checkout out our [paper](https://arxiv.org
 
 ## Installation
 
-> [!NOTE]
+> [!WARNING]
 > MuJoCo MPC uses the Unitree A1 quadruped assets by default. For deployment with the Unitree Go1 or Go2, please clone MuJoCo MPC using either
 > 
 > ```zsh
@@ -18,8 +18,6 @@ For result videos and details, please checkout out our [paper](https://arxiv.org
 > ```zsh
 > git clone https://github.com/johnzhang3/mujoco_mpc -b go2
 > ```
-> 
-> respectively.
 
 1. install the python interface for MuJoCo MPC following the [official instructions](https://github.com/google-deepmind/mujoco_mpc)
 2. install necessary [Unitree SDK](https://github.com/unitreerobotics/unitree_legged_sdk) or [Unitree SDK2](https://github.com/unitreerobotics/unitree_sdk2) dependecies
